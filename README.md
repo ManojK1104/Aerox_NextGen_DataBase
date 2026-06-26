@@ -80,12 +80,13 @@ The Power BI dashboard (`aerox dashboard.pbix`) connects directly to the databas
 ### Over View
 KPIs for total flights, passengers, average aircraft capacity, operating cost, and revenue, alongside passenger trends by year, revenue split by travel class, aircraft capacity by status, and a decomposition of passengers by travel class, flight scope, meal preference, and special assistance.
 
-<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/0717bc29-d5a3-4951-ba25-f74c24fb1a74" />
+<img width="300" height="300" alt="Screenshot 2026-06-26 201200" src="https://github.com/user-attachments/assets/7c23a5ea-5eb4-4348-9035-b787bd5c659d" />
+
 
 ### Methods
 A breakdown of bookings by payment method, operating cost vs. revenue by travel class, and average ratings (overall, food, cleanliness, entertainment, service) per travel class.
 
-<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/37108358-9fe1-47a6-9292-84492040860a" />
+<img width="300" height="300" alt="Screenshot 2026-06-26 201209" src="https://github.com/user-attachments/assets/4f043119-a418-43c9-b6fb-61924672fdb0" />
 
 
 ---
